@@ -1,2 +1,5 @@
-# LZWCompression
-LZWCompression: This code demonstrate the coe for compressing different types of files.
+# Lempel-Ziv Welch Compression
+
+Implementaion of LZW compression and decompression algorithm to be run on various kind of file systems. 
+
+Algorithm taken form wikipedia and other academic sites.
